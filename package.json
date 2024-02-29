@@ -1,0 +1,19 @@
+{
+  "name": "nodechk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sid2303/Nodechk.git"
+  },
+  "author": "Sid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sid2303/Nodechk/issues"
+  },
+  "homepage": "https://github.com/Sid2303/Nodechk#readme"
+}
